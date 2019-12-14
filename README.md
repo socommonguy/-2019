@@ -294,7 +294,7 @@ f) 返回所属权限的信息管理界面。
 
 3. 使用浏览器访问`localhost:3000`即可。
 
-4. 若要使用手机访问则将`localhost`替换成手机与本地同时连接的WLAN地址。
+4. 若要使用手机访问则将`localhost`替换成手机与本地同时连接的WLAN地址，校园网不行，必须局域网。
 
 
 ![图片丢失](Code/public/images/success.png) 
