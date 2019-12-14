@@ -1,0 +1,22 @@
+{
+  "name": "Membership_System",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.0.0-beta.36",
+    "bootstrap": "^3.3.7",
+    "material-ui": "^0.20.0",
+    "mdui": "^0.4.0",
+    "meteor-node-stubs": "^0.3.2",
+    "qrcode.react": "^0.8.0",
+    "react": "^16.2.0",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.2.0",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-swipeable-views": "^0.12.13",
+    "vconsole": "^3.2.0"
+  }
+}
