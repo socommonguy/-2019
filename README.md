@@ -244,7 +244,7 @@ f) 返回所属权限的信息管理界面。
           主页面，展示已创建活动和可报名活动  
 ![图片丢失](Code/public/images/pic13.png)  
       活动详情页面，可查看活动详情，并报名活动  
-###6.2 管理员(在数据库users中将permission改成0即为管理员权限)  
+###6.2 管理员(在数据库users中将permission改成0即为管理员权限，改为1为干事，干事也可以发布活动，但不可创建签到)  
 ![图片丢失](Code/public/images/pic14.png)  
              多了一个`+`按钮，可添加活动  
 ![图片丢失](Code/public/images/pic15.png)   
